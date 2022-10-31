@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/moroccan-flower-dark.webp);
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
+
+#Facebook or Instagram{
+    font: size 120px;
+    color: aqua;
+} 

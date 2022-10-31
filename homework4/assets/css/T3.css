@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/watercolor.webp);
+    background-repeat: repeat-y;
+}
+
+#Hello{
+    font-size: 100px;
+    font-style: italic;
+    color: darkmagenta;
+}

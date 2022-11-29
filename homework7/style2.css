@@ -1,0 +1,70 @@
+body {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: #fff;
+    padding: 5%;
+    height: 500px;
+    width: 300px;
+    position:relative;
+}
+
+.upperpic {
+    background-image: url(../homework7/Skyscraper.jpg);
+    width: 100%;
+    height: 40%;
+    
+}
+
+.heart {
+
+    background-image: url(../homework7/heart.png);
+    background size: cover;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+
+.lowerpic {
+height: 300px;
+width: 70%;
+background-color:#fff;
+position:absolute;
+text-align:center;
+flex-direction: column;
+top: 200px;
+right: 0;
+left: 0;
+bottom: 0;
+margin: 0 auto;
+}
+
+
+.smallbox {
+
+
+
+}
+
+
+.font {
+
+}
+
+
+
+.line {
+
+}
+
+.footer {
+
+}
+
